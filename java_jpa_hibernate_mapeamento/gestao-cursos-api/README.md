@@ -1,0 +1,1 @@
+Aplicação CRUD para Gestão de Cursos usando Hibernate + JPA + SQLite
